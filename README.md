@@ -1,3 +1,3 @@
 # Machine---Learning
 22П-2 Игнатьев
-# [ДАШБОРД]([https://disk.yandex.ru/i/ZCDkvjCbf948aw](https://datalens.yandex/n2v4912ra6l29))
+# [ДАШБОРД] (https://datalens.yandex.cloud/n2v4912ra6l29)
